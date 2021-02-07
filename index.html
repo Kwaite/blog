@@ -12,6 +12,7 @@ layout: default
   
 {% if post.content contains '<!--more-->' %}
   {{ post.content | split:'<!--more-->' | first }}
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
 {% else %}
    <p>{{post.content}} </p>
 {% endif %}
