@@ -11,7 +11,7 @@ layout: default
     </header>
   
 {% if post.content contains '<!--more-->' %}
-  {{ post.excerpt }}
+  {{ post.content | split:'<!--more-->' | first }}
 {% else %}
    <p>{{post.content}} </p>
 {% endif %}
