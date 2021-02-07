@@ -6,10 +6,11 @@ categories:
   - "on-air"
 ---
 
-Le bidule arrête d’un coup la radio que je lui ai demandé en streaming.
-<!--more-->
-Être humain : « OK Google, pourquoi tu as arrêté la musique ? »
+Le bidule arrête d’un coup la radio que je lui ai demandé en streaming.  
 
-Machine: « OK, je mets Stromae en streaming sur Deezer »
+<!--more-->
+Être humain : « OK Google, pourquoi tu as arrêté la musique ? »  
+
+Machine: « OK, je mets Stromae en streaming sur Deezer »  
 
 💁🏽
