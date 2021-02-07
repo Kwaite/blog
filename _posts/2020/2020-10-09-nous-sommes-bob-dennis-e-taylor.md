@@ -5,7 +5,7 @@ categories:
   - "vece"
 ---
 
-![](images/Nous-sommes-bob.jpg) {: style="float: left"}
+![](images/Nous-sommes-bob.jpg) {: .img-left}
 
 Bob (Johansson) vient de vendre sa start-up à prix d'or. A lui la belle vie! Pour commencer, tant qu'à avoir de la maille, il signe un contrat pour se faire cryogéniser le cerveau à sa mort et ainsi pouvoir ressusciter s'il meurt, quand la science aura suffisamment avancé pour pouvoir le faire.
 
