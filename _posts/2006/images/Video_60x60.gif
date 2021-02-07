@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr-FR" dir="ltr">
+
+<head>
+ <!-- data-info:v:20210129_30981941;a:2058cf59-2068-4e20-a05d-371fd3d25539;cn:11;az:{did:951b20c4cd6d42d29795c846b4755d88, rid: 11, sn: neurope-prod-hp, dt: 2021-02-02T22:34:02.2978007Z, bt: 2021-01-30T01:25:56.4314099Z};ddpi:1;dpio:;dpi:1;dg:downlevel.pc;th:start;PageName:startPage;m:fr-fr;cb:;l:fr-fr;mu:fr-fr;ud:{cid:,vk:homepage,n:,l:fr-fr,ck:};xd:BBoJLcB;ovc:f;al:;fxd:f;xdpub:2021-01-20 20:23:33Z;xdmap:2021-02-04 11:02:17Z;axd:;f:msnallexpusers,muidflt9cf,muidflt14cf,muidflt49cf,muidflt53cf,muidflt261cf,audexhp1cf,bingfrdetraffic,tokenblockgc,article3cf,onetrustpoplive,msnapp2cf,vebudumu04302020,bbh20200521msn,prong1aac,csmoney4cf,csmoney5cf,shopstrpintc,prg-gitconfigs-t11;userOptOut:false;userOptOutOptions: -->
+ <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large"/>
+ <link rel="canonical" href="http://www.msn.com/fr-fr/" />
+ 
+
+ <title>MSN France: Hotmail, Outlook, actualit&#233;s, m&#233;t&#233;o, divertissement</title>
+ <meta name="description" content="Toute l&#39;actualité, le sport, la météo, les infos people, les vidéos, en restant connecté à votre messagerie Hotmail - Outlook et Skype"/>
+ 
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1" />
+ <link rel="stylesheet" href="//static-global-s-msn-com.akamaized.net/hp-neu/fr-fr/homepage/_sc/css/d7cb56b9-9ba8c85c/direction=ltr.locales=fr-fr.themes=start.dpi=resolution1x/ab-69ca4a-4e3b0a9b/90-67c322-ee5f2b10/2a-1f1669-9d6991b1/3e-923a67-f94d3276/ab-52fe22-a648eab2/86-b413d7-63b61fa3/d1-7801d5-68ddb2ab/7a-660b57-4534563a/75-a00681-654638bf?ver=20210129_30981941&amp;fdhead=msnallexpusers,muidflt9cf,muidflt14cf,muidflt49cf,muidflt53cf,muidflt261cf,audexhp1cf,bingfrdetraffic,tokenblockgc,article3cf,onetrustpoplive,msnapp2cf,vebudumu04302020,bbh20200521msn,prong1aac,csmoney4cf,csmoney5cf,shopstrpintc,prg-gitconfigs-t11&amp;csopd=20210113012445&amp;csopdb=20210105192608" type="text/css" media="all" />
+ <script type="text/javascript">//<![CDATA[
+(function(n,t){function h(n,i,r){typeof n!="string"&&(r=i,i=n,n=t);i&&i.splice||(r=i,i=[]);n==it?a=!0:n==rt&&(v=!0);l(n,i,r,!1,!1)}function l(n,t,i,r,f,e){var s,y;if(!n||!c[n]){var h=ot(n,t),o=h.dependencyNotFound,l=h.resolved;if(o){typeof u[o]=="undefined"&&(u[o]=[]);u[o].push(e||{i:n,d:t,f:i,r:r,s:f});return}s=typeof i=="function";y=v&&a&&s&&!f;y?et(n,i,l,r):ft(s,n,i,l,r)}}function ft(n,t,i,r,u){var f;f=n?i.apply(null,r):i;d(t,f,u)}function et(n,t,i,r){setTimeout(function(){var u=t.apply(null,i);d(n,u,r)},1)}function d(t,i,r){r&&(i={});t&&(i?(c[t]=i,f.push(t),g()):n.console&&console.error("Dependencies resolved, but object still not defined (or is otherwise falsey). id:"+t+"; typeof obj: "+typeof i))}function g(){var t,s,h,i,o,c,r,n;if(e)e&&(e=2);else{t=[];do{for(e=1,h=f.length,i=0;i<h;i++)o=f[i],c=u[o]||[],t=t.concat(c),delete u[o];for(f=[],s=t.length,r=0;r<s;r++)n=t[r],l(n.i,n.d,n.f,n.r,n.s,n);t=[]}while(e>1);e=0}}function ot(n,t){for(var e,i=[],r,o=t?t.length:0,u=0;u<o;u++){var f=t[u],s=c[f],h=typeof s!="undefined";if(!h){if(e=st(n,f),e){i.push(e);continue}r||(r=f);break}i.push(s)}return o===i.length?{resolved:i}:{dependencyNotFound:r}}function st(i,r){var f=k.exec(r),e,u;if(f){if(e=f[1],u=n[e],u!==t)return u;s||(s=setTimeout(nt,w))}}function nt(){var i,r,e,o,h;s=0;i=!1;for(r in u)e=k.exec(r),e&&(o=e[1],h=n[o],h!==t?f.push(r):i=!0);i&&!s&&(s=setTimeout(nt,w));f.length&&g()}function ht(n,t,i){if((typeof n!="object"||n&&n.splice)&&(i=t,t=n,n={}),t&&t.splice||(i=t,t=[]),ct(n.js),i){var r,u=n.synchronous||!1;l(r,t,i,!0,u)}}function ct(n){if(typeof n=="string")tt(n);else if(n)for(var t=0;t<n.length;t++)tt(n[t])}function tt(n){if(!b[n]){b[n]=1;var i=o.getElementsByTagName("script")[0],t=o.createElement("script");t.src=n;t.onload=t.onreadystatechange=function(){this.readyState&&this.readyState!="loaded"&&this.readyState!="complete"||(t.onload=t.onreadystatechange=null,t.parentNode&&t.parentNode.removeChild(t))};i.parentNode.insertBefore(t,i)}}function lt(n){return ut?n?i.now():Math.round(i.now()):new Date-y}var it=n._jsLoaderAsyncCanary||"c.dom",rt="c.pageReveal",a=!1,v=typeof n._jsLoaderRevealMode=="undefined"?!0:n._jsLoaderRevealMode,i=n.performance,ut=i&&typeof i.now=="function",r=" ----- ",y=((i||{}).timing||{}).navigationStart||+new Date,o=n.document,p=null;try{p=n.localStorage}catch(at){}var c={date:Date,document:o,image:n.Image,localStorage:p,location:o&&o.location,navigator:navigator,pageStart:y,pageTime:lt,screen:n.screen,window:n},u={},f=[],e,w=50,s,b={},k=/^window\.(.+)$/;h.amd={jQuery:1};h.is=function(n){return typeof c[n]!="undefined"};n.define=h;n.require=ht;h.showUserMarks=function(){var n=["Mark Name"+r+"Start time in ms"];return i.getEntriesByType("mark").forEach(function(t){n.push(t.name+r+t.startTime+"ms")}),n.join("\n")};h.showUserMeasures=function(){var n=["Measure name"+r+"Start time in ms"+r+"Duration in ms"];return i.getEntriesByType("measure").forEach(function(t){n.push(t.name+r+t.startTime+"ms"+r+t.duration+"ms")}),n.join("\n")}})(window);define("navigation",["escape","location","document"],function(n,t,i){function o(t,i,r){var u=t[i],e,f;if(!u||u.length===0)return"";for(e="",f=0;f<u.length;f++)u[f]&&(e=e+r+i+"="+n.urlPart(u[f]),r==="?"&&(r="&"));return e}function u(n,t,i){var s=function(n){return n=n.replace(/\+/g," "),decodeURIComponent(n)},u={},o,e;if(n)for(n=n.split("#")[0],o=n.split("&"),e=0;e<o.length;e++){var h=o[e].split("="),r=h[0],f=h[1];i&&(r=s(r),f&&(f=s(f)));t||r==="item"?(u[r]||(u[r]=[]),u[r].push(f)):u[r]=f}return u}function f(n){var t=i.createElement("a");return t.href=n,{protocol:t.protocol,host:t.host,hostName:t.hostname,port:t.port,path:t.pathname,hash:t.hash,query:t.search,origin:t.origin}}function e(n){return f(n).hostName}var r={getUrl:function(n){return r.filter?r.filter(n):n},navigate:function(n,i){r.filter&&(n=r.filter(n));i?t.replace(n):t.href=n},getHostName:e,parseUrl:f,isLocal:function(n){var i=e(n);return!i||t.hostname==i},getParams:u,getParamsFromUrl:function(n,t,i){var r=n.split("?")[1];return u(r,t,i)},mergeQueryStringParams:function(t,i){var s,f,e,h,r,c;if(i){if(s=t.split("?"),s[1]){f=u(s[1],!1,!0);for(r in i)f[r]=i[r]}else f=i;t=s[0];e="?";h="item";for(r in f)r!==h&&(t+=f[r]?e+n.urlPart(r)+"="+n.urlPart(f[r]):e+n.urlPart(r),e==="?"&&(e="&"));c=o(f,h,e);t=t+c}return t},filter:null};return r});define("logging",["window"],function(n){function r(n,t){if(n.addEventListener)n.addEventListener("error",t,!1);else if(n.onerror){var i=n.onerror;n.onerror=function(n,r,u,f,e){return i(n,r,u,f,e),t(n,r,u,f,e)}}else n.onerror=t}function t(t){n.console&&(console.error||console.log)(t)}function u(){}function f(){}function e(t){(n.console||{}).timeStamp?console.timeStamp(t):(n.performance||{}).mark&&n.performance.mark(t)}var i=0;return r(n,function(n){return i++,n&&t("[SCRIPTERROR] "+n),!0}),{error:t,fatalError:t,unhandledErrorCount:function(){return i},perfMark:e,warning:u,information:f}})//]]></script><script type="text/javascript" src="//static-global-s-msn-com.akamaized.net/hp-neu/_h/4c59fa2c/webcore/externalscripts/jquery/jquery-1.11.1.min.js"></script>
+ 
+ <style>@media screen and (max-width:78.99em) and (min-width:58.875em){.layout-none:not(.mod1) .pos2{left:0}}.ie8 .grid .pick4~li.pick{display:none}.todaystripe .todayshowcasead:hover{opacity:1}.spartan #main .paging-container.snap{overflow-x:hidden}#addRemoveSectionsModalContainer #addRemoveSectionsModal{display:block}.tmx.mobile .superbowl .matchupstripe{margin:0 auto}.stripecontainer .stripeouter.noborder{height:33.7rem}html[dir='rtl'] .ie8 .mip>ul>li.triptych h3+a{border-right:0}html[dir='ltr'] .ie8 .mip>ul>li.triptych h3+a{border-left:0}.meflyouts .integratedskype .signin>ul li:first-child{display:none}.tmx.pc.webkit.chrome .stripecontent ul{overflow-x:hidden}.meflyouts .bingrewards{display:none}#maincontent>.content{width:100%}.mobile .galleryinfo .img-divider{display:none}.homepage.tmx.pc.chrome #main .one-col,.homepage.tmx.pc.chrome #main .two-col,.homepage.tmx.pc.chrome #main .three-col{margin-right:-.016rem;margin-left:-.016rem}.homepage.midlevel .pagingsection>button.show,.channelplayerpage.midlevel .pagingsection>button.show{display:none}.settings.start.tmx.pc .globalsettings .social.twitter{display:none}@media screen and (max-width:52.303em){#irisbanner .irisbanner header>a{max-width:33rem}}.tmx.pc.webkit.chrome .msame_Header_pic{height:5rem}</style>
+</head>
+
+<body class="startpage sp center-content start">
+ 
+
+
+ <div class="euBanner" aria-labelledby="cookiebannerheader" >
+ <script src="https://c.s-microsoft.com/mscc/statics/mscc-0.4.2.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://c.s-microsoft.com/mscc/statics/mscc-0.4.2.min.css">
+ <div id='msccBanner' dir='ltr' data-site-name='msn.com' data-mscc-version='0.4.2' data-nver='aspnet-3.1.1' data-sver='0.1.2' class='cc-banner' role='alert' aria-labelledby='msccMessage'><div class='cc-container'><svg class='cc-icon cc-v-center' x='0px' y='0px' viewBox='0 0 44 44' height='30px' fill='none' stroke='currentColor'><circle cx='22' cy='22' r='20' stroke-width='2'></circle><line x1='22' x2='22' y1='18' y2='33' stroke-width='3'></line><line x1='22' x2='22' y1='12' y2='15' stroke-width='3'></line></svg> <span id='msccMessage' class='cc-v-center cc-text' tabindex='0'>Ce site utilise des cookies pour l'analyse, ainsi que pour les contenus et publicités personnalisés. En continuant à naviguer sur ce site, vous acceptez cette utilisation.</span> <a href='https://go.microsoft.com/fwlink/?linkid=845480' target='_top' aria-label='En savoir plus sur la politique relative aux cookies de Microsoft' id='msccLearnMore' class='cc-link cc-v-center cc-float-right' data-mscc-ic='false'>En savoir plus</a></div></div>
+</div>
+
+<div class="head">
+<div>
+<div id="topnav">
+ <ul class="verticalsnav">
+ <li  class="current">
+<a href="/fr-fr">Accueil</a>
+</li>
+ <li >
+<a href="/fr-fr/actualite">Actualit&#233;</a>
+</li>
+ <li >
+<a href="/fr-fr/meteo">M&#233;t&#233;o</a>
+</li>
+ <li >
+<a href="/fr-fr/divertissement">Divertissement</a>
+</li>
+ <li >
+<a href="/fr-fr/sport">Sport</a>
+</li>
+ <li >
+<a href="/fr-fr/finance">Finance</a>
+</li>
+
+ <li class="more">
+<a href="#nav">Plus ></a>
+<ul>
+ <li >
+<a href="/fr-fr/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/fr-fr/video">Vid&#233;o</a>
+</li>
+ <li >
+<a href="/fr-fr/sante">Bien-&#234;tre</a>
+</li>
+ <li >
+<a href="/fr-fr/cuisine-et-vins">Cuisine</a>
+</li>
+ <li >
+<a href="/fr-fr/voyage">Voyage</a>
+</li>
+ <li >
+<a href="/fr-fr/auto">Auto</a>
+</li>
+ <li >
+<a href="https://k.ilius.net/?mtcmk=832714&amp;fsid=071">Rencontres</a>
+</li>
+ <li >
+<a href="https://www.msn.com/fr-fr/lifestyle/horoscope">Horoscope</a>
+</li>
+ <li >
+<a href="https://www.msn.com/fr-fr/actualite/pc-ordinateur-portable">PC ET ORDINATEUR PORTABLE</a>
+</li>
+ </ul>
+</li>
+ </ul>
+</div>
+  <div id="header-common">
+<div class="header">
+<div class="header-logo">
+  <a class="logo" href="/fr-fr" tabindex="2">
+ 
+
+<img alt="" height="20" width="20" src="//static-global-s-msn-com.akamaized.net/hp-neu/sc/82/c22c7d.gif" />
+</a>
+ <a class="vertical" href="/fr-fr" tabindex="2">msn</a>
+
+
+
+</div>
+<div id="header-links">
+ <a href="http://www.outlook.com/">Outlook.com</a>
+ <span>|</span>
+ <a href="/fr-fr/settings/markettoggle"><img alt="fr-fr" src="//static-global-s-msn-com.akamaized.net/hp-neu/sc/6a/a62410.gif" /></a>
+
+<a class="navigation" href="#nav">
+<img  alt="accéder à la navigation" width="27" height="20" src="//static-global-s-msn-com.akamaized.net/hp-neu/sc/57/a49b8d.gif" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+ 
+<div id="header-search">
+<form action="http://www.bing.com/search?scope=web" method="get" id="srchfrm">
+<div class="searchbox">
+<input type="text" id="q" name="q" value="" />
+<input type="hidden" name="form" value="PRFRDL" />
+  <input type="hidden" name="httpsmsn" value="1">
+    <input type="hidden" name="msnews" value="1">
+ <input type="hidden" name="refig" value="2058cf5920684e20a05d371fd3d25539">
+<input type="submit" class="text" value="recherche web" title="recherche web" />
+ </div>
+</form>
+</div>
+
+</div>
+ 
+ 
+<div class="upgradebrowser">
+ Vous utilisez une ancienne version de votre navigateur. Veuillez utiliser une <a href="http://support2.microsoft.com/kb/2999871/fr-fr">version prise en charge</a> pour bénéficier d’une meilleure expérience MSN.
+</div>
+
+
+
+</div>
+<div id="maincontent">
+ 
+<div id="main"  data-region="main">
+ 
+
+ 
+ <div class="today">
+
+
+	<div class="weatodaytile"  data-module-id="startpage|todayDownlevel|section|DownlevelMiniWeather|WeatherTodayTileModule"   data-aop="todayweathersd_weathertodaythreedaystilemodule">
+<a  href="/fr-fr/meteo/previsions/Puteaux,IdF,France/we-city?iso=FR&amp;el=E03BvL8KZdkvdNhnMuYuzw%3D%3D" data-loc="lat=48.88&amp;long=2.24&amp;c=Puteaux&amp;st=IdF&amp;cn=France&amp;iso=FR&amp;type=1">
+<div class="weatileleft">
+<img class="skycond" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB8MKSg.img?m=6&amp;o=true&amp;u=true&amp;n=true&amp;w=40&amp;h=40"
+
+data-src="{&quot;default&quot;:&quot;//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB8MKSg.img?m=6&amp;o=true&amp;u=true&amp;n=true&amp;w=40&amp;h=40&quot;}"
+alt="Globalement nuageux" title="Globalement nuageux" data-icon="3" />
+	<div id="weatheralert" title="Alerte&#160;!">Alerte&#160;!</div>
+	<div><span class="currentcond">9&#176;</span><span class="tempunit">C</span></div>
+</div>
+<div class="weatileright">
+<span class="weacity">Puteaux, IdF</span>
+<span class="skytext">Aujourd’hui, Globalement nuageux</span>
+<span class="tempavghigh">Maxima 11&#176;</span>
+<span class="tempavglow">Minima 6&#176;</span>
+</div>
+	</a>
+
+ <div class="edit"  data-aop="change">
+<a class="edithome" href="#" aria-label="Modifier le lieu ou l&#39;unit&#233; de temp&#233;rature" data-degreetype="C" 
+data-home="Rechercher un lieu/une ville" title="Modifier">Modifier</a>
+</div>
+<div class="weapopup" role="dialog" aria-labelledby="weaaddlocation-label"  data-aop="editweatherflyout"  data-region="editweatherflyout">
+<div class="weaddn wpopbg"></div>
+<div class="weaddn wpopctn">
+<a class="close"  role="button" href="#" title="Fermer">Fermer</a>
+ 
+
+<div class="weaaddlocation">
+
+<form  action="/fr-fr/meteo/rechercher" data-action="/fr-fr/meteo/ajax/lieux/rechercher/" method="get" >
+ 
+<p class="label" id="weaaddlocation-label">D&#233;finir le lieu par d&#233;faut</p>
+<div class="add-loc-as-container">
+<input name="q" class="query" accesskey="L" autocomplete="off" type="search" aria-autocomplete="list"
+value="" maxlength="250" data-auto-suggest-settings='{&quot;market&quot;:&quot;fr-fr&quot;,&quot;mode&quot;:&quot;AS&quot;,&quot;baseurl&quot;:&quot;/fr-fr/meteo/previsions&quot;,&quot;action&quot;:&quot;sethome&quot;,&quot;method&quot;:&quot;custom&quot;,&quot;selector&quot;:&quot;.weaaddlocation&quot;,&quot;urltype&quot;:&quot;GeoLocation&quot;,&quot;formcode&quot;:&quot;&quot;,&quot;lat&quot;:48.8832,&quot;lon&quot;:2.2375}'
+                   placeholder="Rechercher un lieu/une ville" data-seemoretext="Appuyez sur &lt;Entr&#233;e&gt; pour afficher plus" data-autosuggestdelay="100"
+                   aria-label="Rechercher un lieu/une ville"  />
+<button type="submit" title ="Rechercher" class="searchbtn" 
+  aria-label="rechercher">
+<span class="x-screen-reader">Rechercher</span>               
+            </button>
+        </div>
+        <div class="nolocerr" aria-live="assertive" data-message="Aucun r&#233;sultat de recherche pour &#39;{0}&#39;"></div>
+<div class="errmsg" aria-hidden="true" data-error-in-service-message="Une erreur inattendue est survenue, veuillez r&#233;essayer."></div>
+<div class="suggestmsg"></div>
+<div class="autosuggestresults" ></div>
+ 
+</form>
+</div>
+
+ 
+
+
+<div  role="radiogroup">
+<p>Afficher la temp&#233;rature en</p>
+<form id="id80f0aaf04d6f44f4acb9e71408aa1e51" class="setdegree"  action="/fr-fr/meteo/ajax/lieux/savedegree/" method="post">
+ 
+<div>
+<button name="weaDegreeType" id="id80f0aaf04d6f44f4acb9e71408aa1e51_fahrenheit" value="F"
+                        class=""
+ role="radio"
+ >
+<span class="dot"></span>
+</button>
+<label for="id80f0aaf04d6f44f4acb9e71408aa1e51_fahrenheit" form="id80f0aaf04d6f44f4acb9e71408aa1e51">Fahrenheit</label>
+            </div>
+            <div>
+                <button name="weaDegreeType" id="id80f0aaf04d6f44f4acb9e71408aa1e51_celsius" value="C"
+                        class="selected"
+ role="radio"
+ >
+<span class="dot"></span>
+</button>
+<label for="id80f0aaf04d6f44f4acb9e71408aa1e51_celsius" form="id80f0aaf04d6f44f4acb9e71408aa1e51">Celsius</label>
+</div>
+ 
+</form>
+</div>
+
+<button  class="donebutton disabled" disabled="disabled" title="Termin&#233;">Termin&#233;</button>
+</div>
+</div>
+	</div>
+ </div>
+ <div class="stripe first">
+<h2>Aujourd’hui</h2>    <a href="/fr-fr/actualite/france/lutte-contre-les-cancers-macron-vise-une-%c2%ab-g%c3%a9n%c3%a9ration-sans-tabac-%c2%bb-pour-ceux-qui-auront-20-ans-en-2030/ar-BB1dnscm?li=AAaCKnE"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1dnt92.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=479&amp;y=409" title="Emmanuel Macron, dans la cour du palais de l’Elysée, lundi. - AFP/Ludovic Marin" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/fr-fr/actualite/france/lutte-contre-les-cancers-macron-vise-une-%c2%ab-g%c3%a9n%c3%a9ration-sans-tabac-%c2%bb-pour-ceux-qui-auront-20-ans-en-2030/ar-BB1dnscm?li=AAaCKnE"  >
+
+E. Macron vise une &#171;g&#233;n&#233;ration sans tabac&#187; en 2030    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/actualite/monde/covid-19-avec-les-restrictions-sanitaires-la-france-class%c3%a9e-comme-%c2%abd%c3%a9mocratie-d%c3%a9faillante%c2%bb-par-the-economist/ar-BB1dnBhe?li=AAaCKnE"  >
+
+La France class&#233;e comme &#171;d&#233;mocratie d&#233;faillante&#187; par The Economist    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/actualite/monde/le-sexisme-du-patron-des-jeux-olympiques-de-tokyo/ar-BB1dnBex?li=AAaCKnE"  >
+
+Le sexisme du patron des Jeux olympiques de Tokyo    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/sport/football/crise-des-droits-tv-canalplus-a-bien-refus%c3%a9-le-gr%c3%a9-%c3%a0-gr%c3%a9-avec-la-lfp/ar-BB1dnLTu?li=AAaCKnE"  >
+
+Droits TV: Canal+ a bien refus&#233; le gr&#233; &#224; gr&#233; avec la LFP    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/actualite/monde/envahissement-du-capitole-emmanuel-macron-appelle-%c3%a0-ne-rien-c%c3%a9der-face-%c3%a0-la-violence-de-quelques-uns-contre-les-d%c3%a9mocraties/ar-BB1cxyvP?li=AAaCKnE"  >
+
+Envahissement du Capitole: Macron appelle &#224; &#171;ne rien c&#233;der&#187;    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/fr-fr/actualite" >Actualit&#233;</a></h2>    <a href="/fr-fr/actualite/monde/en-direct-covid-19-l-allemagne-compte-assouplir-son-confinement-avant-la-fin-de-l-hiver/ar-BB1dnGJz?li=BBkGbOY"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1dnDwa.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=2076&amp;y=1398" title="En direct - Covid-19 : L’Allemagne compte assouplir son confinement avant la fin... - Hannibal Hanschke" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/fr-fr/actualite/monde/en-direct-covid-19-l-allemagne-compte-assouplir-son-confinement-avant-la-fin-de-l-hiver/ar-BB1dnGJz?li=BBkGbOY"  >
+
+En direct - Covid-19 : L’Allemagne compte assouplir son confinement avant la fin de l’hiver    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/actualite/monde/trois-jeunes-filles-arr%c3%aat%c3%a9es-apr%c3%a8s-une-violente-agression-film%c3%a9e-%c3%a0-b%c3%a9ziers/ar-BB1dnMB6?li=BBkGbOY"  >
+
+Trois jeunes filles arr&#234;t&#233;es apr&#232;s une violente agression film&#233;e &#224; B&#233;ziers    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/actualite/france/macron-veut-une-pr%c3%a9vention-renforc%c3%a9e-contre-l-exc%c3%a8s-d-alcool-et-une-g%c3%a9n%c3%a9ration-sans-tabac-en-2030/ar-BB1dnGR6?li=BBkGbOY"  >
+
+Macron veut une pr&#233;vention renforc&#233;e contre l&#39;exc&#232;s d&#39;alcool et une &quot;g&#233;n&#233;ration sans tabac&quot; en 2030    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/actualite/monde/braqueur-de-kim-kardashian-yunice-abbas-confie-il-y-a-7-millions-d-euros-dans-la-nature/ar-BB1dnGNS?li=BBkGbOY"  >
+
+Braqueur de Kim Kardashian, Yunice Abbas confie : &quot;Il y a 7 millions d’euros dans la nature&quot;    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/actualite/france/apr%c3%a8s-l-avoir-trait%c3%a9e-de-poissonni%c3%a8re-le-d%c3%a9put%c3%a9-pierre-henriet-r%c3%a9pond-%c3%a0-mathilde-panot/ar-BB1dnDFH?li=BBkGbOY"  >
+
+Apr&#232;s l&#39;avoir trait&#233;e de &quot;poissonni&#232;re&quot;, le d&#233;put&#233; Pierre Henriet r&#233;pond &#224; Mathilde Panot    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/fr-fr/divertissement" >Divertissement</a></h2>    <a href="/fr-fr/divertissement/celebrites/photo-brigitte-macron-seule-sur-le-terrain-pour-une-bonne-cause/ar-BB1dnpUT?li=BBzd1YB"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1dnBnr.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=146&amp;y=281" title="PHOTO - Brigitte Macron seule sur le terrain pour une bonne cause - Thomas Coex / Pool / Bestimage" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/fr-fr/divertissement/celebrites/photo-brigitte-macron-seule-sur-le-terrain-pour-une-bonne-cause/ar-BB1dnpUT?li=BBzd1YB"  >
+
+PHOTO - Brigitte Macron seule sur le terrain pour une bonne cause    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/divertissement/celebrites/april-benayoum-miss-provence-2021-%c3%a9g%c3%a9rie-cama%c3%afeu-la-collection-est-enfin-en-ligne/ar-BB1cMLE9?li=BBzd1YB"  >
+
+April Benayoum, Miss Provence 2021 &#233;g&#233;rie Cama&#239;eu : la collection est enfin en ligne !    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/divertissement/celebrites/angelina-jolie-ce-tr%c3%a8s-cher-cadeau-de-brad-pitt-qu-elle-vend-aux-ench%c3%a8res/ar-BB1dniVd?li=BBzd1YB"  >
+
+Angelina Jolie : ce tr&#232;s cher cadeau de Brad Pitt qu’elle vend aux ench&#232;res    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/divertissement/celebrites/leslie-que-devient-la-chanteuse/ar-BB1dnoJ8?li=BBzd1YB"  >
+
+Leslie : que devient la chanteuse ?    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/divertissement/celebrites/divorce-kanye-west-a-d%c3%a9m%c3%a9nag%c3%a9-ses-500-paires-de-sneakers-de-la-maison-de-kim-kardashian/ar-BB1dni6A?li=BBzd1YB"  >
+
+Divorce : Kanye West a d&#233;m&#233;nag&#233; ses 500 paires de sneakers de la maison de Kim Kardashian    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/fr-fr/sport" >Sport</a></h2>    <a href="/fr-fr/sport/football/%c3%a0-deux-semaines-du-choc-face-au-psg-le-retour-en-gr%c3%a2ce-de-griezmann/ar-BB1dnGax?li=BBJp9O5"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1dnOZI.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Antoine Griezmann buteur, le 17 janvier dernier, face à l&#39;Athletic Bilbao en fin... - Panoramic" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/fr-fr/sport/football/%c3%a0-deux-semaines-du-choc-face-au-psg-le-retour-en-gr%c3%a2ce-de-griezmann/ar-BB1dnGax?li=BBJp9O5"  >
+
+&#192; deux semaines du choc face au PSG, le retour en gr&#226;ce de Griezmann    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/sport/football/nantes-domenech-chambre-un-journaliste-de-t%c3%a9l%c3%a9foot-sur-la-perte-des-droits-tv/ar-BB1dnKkj?li=BBJp9O5"  >
+
+Nantes: Domenech chambre un journaliste de T&#233;l&#233;foot sur la perte des droits TV    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/sport/football/om-t%c3%b4t-ou-tard-beye-flatt%c3%a9-d-%c3%aatre-cit%c3%a9-parmi-les-entra%c3%aeneurs-potentiels/ar-BB1dnFHo?li=BBJp9O5"  >
+
+OM: &quot;T&#244;t ou tard&quot;, Beye flatt&#233; d&#39;&#234;tre cit&#233; parmi les entra&#238;neurs potentiels    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/sport/football/villas-boas-vers-une-bataille-juridique-avec-l-om/ar-BB1dnGYT?li=BBJp9O5"  >
+
+Villas-Boas, vers une bataille juridique avec l’OM ?    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/sport/basketball/les-sixers-ne-s-arr%c3%aatent-plus/ar-BB1dnJVs?li=BBJp9O5"  >
+
+Les Sixers ne s’arr&#234;tent plus    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2>Recommand&#233; pour vous</h2>    <a href="https://amzn.to/3pH45tR"   target="_blank"     data-pg="TSTPRNUS32" data-pid="7HD66FC">
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1b697g.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Amazon_Xmas_11" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://amzn.to/3pH45tR"   target="_blank"     data-pg="TSTPRNUS32" data-pid="7HD66FC">
+
+                <span  class="nativead">Sponsoris&#233;: </span>
+Pr&#233;parez-vous pur les Ventes Flash de No&#235;l                <img  class="nativead"
+                      />
+    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/fr-fr/finance" >Finance</a></h2>    <a href="/fr-fr/finance/economie/t%c3%a9l%c3%a9travail-elisabeth-borne-pointe-les-secteurs-qui-ont-rel%c3%a2ch%c3%a9-leurs-efforts/ar-BB1dnFDW?li=BBkG5mY"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1d8YzR.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Elisabeth Borne le 20 janvier 2021 à Paris - Ludovic MARIN © 2019 AFP" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/fr-fr/finance/economie/t%c3%a9l%c3%a9travail-elisabeth-borne-pointe-les-secteurs-qui-ont-rel%c3%a2ch%c3%a9-leurs-efforts/ar-BB1dnFDW?li=BBkG5mY"  >
+
+T&#233;l&#233;travail: Elisabeth Borne pointe les secteurs qui ont rel&#226;ch&#233; leurs efforts    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/finance/entreprises/sfam-la-startup-du-mobile-devenue-licorne-ouvre-100-boutiques/ar-BB1dnEir?li=BBkG5mY"  >
+
+SFAM, la startup du mobile devenue licorne, ouvre 100 boutiques    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/finance/epargne-et-investissement/%c3%a9pargne-cinq-alternatives-sans-risques-au-livret-a-pour-dynamiser-ses-placements/ar-BB1dnJOT?li=BBkG5mY"  >
+
+&#201;pargne : cinq alternatives sans risques au Livret A pour dynamiser ses placements    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/finance/economie/bond-du-e-commerce-en-france-en-2020-sur-fond-de-num%c3%a9risation-acc%c3%a9l%c3%a9r%c3%a9e-du-commerce-physique/ar-BB1dnDCx?li=BBkG5mY"  >
+
+Bond du e-commerce en France en 2020 sur fond de num&#233;risation acc&#233;l&#233;r&#233;e du commerce physique    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/finance/economie/le-gouvernement-veut-allonger-le-remboursement-des-pge-de-six-%c3%a0-huit-ans/ar-BB1dnTuu?li=BBkG5mY"  >
+
+Le gouvernement veut allonger le remboursement des PGE de six &#224; huit ans    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/fr-fr/lifestyle" >Lifestyle</a></h2>    <a href="/fr-fr/lifestyle/maison-et-jardin/arbustes-%c3%a0-fleurs-c-est-l-heure-de-la-taille/ar-BB1dns0W?li=BBCIdeJ"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1dnCam.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Arbustes à fleurs : c’est l’heure de la taille ! - iStock" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/fr-fr/lifestyle/maison-et-jardin/arbustes-%c3%a0-fleurs-c-est-l-heure-de-la-taille/ar-BB1dns0W?li=BBCIdeJ"  >
+
+Arbustes &#224; fleurs : c’est l’heure de la taille !    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/lifestyle/trucs-et-astuces/cancer-la-maladie-ne-m-a-pas-priv%c3%a9e-de-mon-r%c3%aave-d-avoir-un-deuxi%c3%a8me-enfant/ar-BB1dnneU?li=BBCIdeJ"  >
+
+Cancer : &quot;La maladie ne m’a pas priv&#233;e de mon r&#234;ve d&#39;avoir un deuxi&#232;me enfant&quot;    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/lifestyle/recettes-de-cuisine/comme-au-resto-10-astuces-de-chefs-pour-ne-pas-g%c3%a2cher/ar-BB1dmSxg?li=BBCIdeJ"  >
+
+Comme au resto, 10 astuces de chefs pour ne pas g&#226;cher    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/lifestyle/recettes-de-cuisine/lenovo-smart-display-votre-nouveau-meilleur-ami-en-cuisine/ar-BB1dmSxH?li=BBCIdeJ"  >
+
+Lenovo Smart Display : votre nouveau meilleur ami en cuisine    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/lifestyle/cuisine/la-d%c3%a9licieuse-recette-des-donuts-de-poulet-au-fromage/ar-BB1dmsfe?li=BBCIdeJ"  >
+
+La d&#233;licieuse recette des donuts de poulet au fromage    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/fr-fr/video" >Vid&#233;o</a></h2>    <a href="/fr-fr/actualite/france/inondations-la-garonne-%c3%a0-10-10m-%c3%a0-marmande/vi-BB1dnAWs"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1dnLTI.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Inondations: la Garonne à 10,10m à Marmande - CAMILLE CASSOU" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/fr-fr/actualite/france/inondations-la-garonne-%c3%a0-10-10m-%c3%a0-marmande/vi-BB1dnAWs"  >
+
+Inondations: la Garonne &#224; 10,10m &#224; Marmande    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/divertissement/cinema/cosmic-sin-bande-annonce-vo/vi-BB1dnUb3"  >
+
+Cosmic Sin Bande-annonce VO    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/lifestyle/recettes-de-cuisine/cuisine-actuelle-%c3%a0-table-avec-la-r%c3%a9dac-le-gratin-de-ravioles-de-marion/vi-BB1dnA4N"  >
+
+CUISINE ACTUELLE - &#192; table avec la r&#233;dac&#39; ! Le gratin de ravioles de Marion    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/divertissement/cinema/breach-bande-annonce-vo/vi-BB1dnK8f"  >
+
+Breach Bande-annonce VO    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/fr-fr/sante" >Bien-&#234;tre</a></h2>    <a href="/fr-fr/lifestyle/style/d%c3%a9couvrez-le-gua-sha/ar-BB1dlO3a?li=BBkFOPm"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1dlJ45.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Découvrez le Gua Sha - Fournis par Cover Media" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/fr-fr/lifestyle/style/d%c3%a9couvrez-le-gua-sha/ar-BB1dlO3a?li=BBkFOPm"  >
+
+D&#233;couvrez le Gua Sha    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/lifestyle/bien-etre/les-femmes-qui-travaillent-%c3%a0-l-ext%c3%a9rieur-ont-moins-de-chances-de-d%c3%a9velopper-un-cancer-du-sein/ar-BB1dmpza?li=BBkFOPm"  >
+
+Les femmes qui travaillent &#224; l&#39;ext&#233;rieur ont moins de chances de d&#233;velopper un cancer du sein    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/lifestyle/trucs-et-astuces/acn%c3%a9-cet-ingr%c3%a9dient-naturel-m%c3%a9connu-%c3%a9limine-les-boutons-l-acide-succinique-est-si-puissant-qu-il-va-cr%c3%a9er-le-buzz-en-2021/ar-BB1dkqIa?li=BBkFOPm"  >
+
+Acn&#233; : cet ingr&#233;dient naturel m&#233;connu &#233;limine les boutons… L’acide succinique est si puissant, qu’il va cr&#233;er le buzz en 2021    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/lifestyle/bien-etre/pyr%c3%a9n%c3%a9es-orientales-deux-chasseurs-contamin%c3%a9s-par-la-trichinellose-apr%c3%a8s-avoir-mang%c3%a9-du-sanglier/ar-BB1dl1uG?li=BBkFOPm"  >
+
+Pyr&#233;n&#233;es-Orientales : deux chasseurs contamin&#233;s par la trichinellose apr&#232;s avoir mang&#233; du sanglier    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/Lifestyle/Lifestyle/comment-me-blinder-contre-les-critiques-de-mes-parents-quel-que-soit-mon-%c3%a2ge/ar-BB1dkkOK?li=BBkFOPm"  >
+
+Comment me blinder contre les critiques de mes parents (quel que soit mon &#226;ge)    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/fr-fr/cuisine-et-vins" >Cuisine</a></h2>    <a href="/fr-fr/lifestyle/cuisine/g%c3%a2teaux-de-saint-valentin-nos-meilleures-recettes-faciles-et-rapides/ar-BB1dmquM?li=AAvyweW"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1dmnVy.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Gâteaux de Saint-Valentin : nos meilleures recettes faciles et rapides - ISTOCKPOHOTO" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/fr-fr/lifestyle/cuisine/g%c3%a2teaux-de-saint-valentin-nos-meilleures-recettes-faciles-et-rapides/ar-BB1dmquM?li=AAvyweW"  >
+
+G&#226;teaux de Saint-Valentin : nos meilleures recettes faciles et rapides    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/lifestyle/cuisine/les-recettes-porte-bonheur-du-nouvel-an-chinois/ar-BB1dlRnn?li=AAvyweW"  >
+
+Les recettes porte-bonheur du Nouvel an chinois    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/lifestyle/cuisine/mardi-gras-nos-meilleures-recettes-de-churros/ar-BB1dlDLn?li=AAvyweW"  >
+
+Mardi gras : nos meilleures recettes de churros    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/lifestyle/cuisine/50-recettes-v%c3%a9g%c3%a9tariennes-pour-la-saint-valentin/ar-BBZXjSJ?li=AAvyweW"  >
+
+50 recettes v&#233;g&#233;tariennes pour la Saint Valentin    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/lifestyle/cuisine/saint-valentin-nos-recettes-gourmandes-inspir%c3%a9es-des-chefs/ar-BB1dkbDm?li=AAvyswC"  >
+
+Saint-Valentin : nos recettes gourmandes inspir&#233;es des chefs    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/fr-fr/auto" >Auto</a></h2>    <a href="/fr-fr/auto/actualite/la-toyota-corolla-est-encore-la-voiture-la-plus-vendue-au-monde/ar-BB1dnnZY?li=AAyv5bf"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1dnnZS.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Toyota Corolla Touring Sports 2018 - Fournis par Auto Moto" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/fr-fr/auto/actualite/la-toyota-corolla-est-encore-la-voiture-la-plus-vendue-au-monde/ar-BB1dnnZY?li=AAyv5bf"  >
+
+La Toyota Corolla est encore la voiture la plus vendue au monde    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/auto/actualite/essai-ducati-multistrada-v4s-2021-le-rapace-de-bologne/ar-BB1dmNXg?li=AAyv5bf"  >
+
+Essai Ducati Multistrada V4S 2021 : le rapace de Bologne    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/auto/actualite/et-si-le-nouveau-kia-sportage-ressemblait-%c3%a0-%c3%a7a/ar-BB1dmofa?li=AAyv5bf"  >
+
+Et si le nouveau Kia Sportage ressemblait &#224; &#231;a ?    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/auto/actualite/ds-4-cross-2021-nos-photos-de-la-version-baroudeuse-de-la-compacte/ss-BB1dlWkL?li=AAyv5bf"  >
+
+DS 4 Cross (2021) | nos photos de la version baroudeuse de la compacte    </a>
+
+</li>
+ <li >
+     <a href="/fr-fr/auto/actualite/le-constructeur-vietnamien-vinfast-d%c3%a9barque-en-europe/ar-BB1dlPsb?li=AAyv5bf"  >
+
+Le constructeur vietnamien Vinfast d&#233;barque en Europe    </a>
+
+</li>
+ </ul>
+
+</div>
+
+ 
+</div>
+<div id="aside"  data-region="aside">
+ 
+</div>
+<div id="nav">
+ <ul class="verticalsnav">
+ <li  class="current">
+<a href="/fr-fr">Accueil</a>
+</li>
+ <li >
+<a href="/fr-fr/actualite">Actualit&#233;</a>
+</li>
+ <li >
+<a href="/fr-fr/meteo">M&#233;t&#233;o</a>
+</li>
+ <li >
+<a href="/fr-fr/divertissement">Divertissement</a>
+</li>
+ <li >
+<a href="/fr-fr/sport">Sport</a>
+</li>
+ <li >
+<a href="/fr-fr/finance">Finance</a>
+</li>
+ <li >
+<a href="/fr-fr/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/fr-fr/video">Vid&#233;o</a>
+</li>
+ <li >
+<a href="/fr-fr/sante">Bien-&#234;tre</a>
+</li>
+ <li >
+<a href="/fr-fr/cuisine-et-vins">Cuisine</a>
+</li>
+ <li >
+<a href="/fr-fr/voyage">Voyage</a>
+</li>
+ <li >
+<a href="/fr-fr/auto">Auto</a>
+</li>
+ <li >
+<a href="https://k.ilius.net/?mtcmk=832714&amp;fsid=071">Rencontres</a>
+</li>
+ <li >
+<a href="https://www.msn.com/fr-fr/lifestyle/horoscope">Horoscope</a>
+</li>
+ <li >
+<a href="https://www.msn.com/fr-fr/actualite/pc-ordinateur-portable">PC ET ORDINATEUR PORTABLE</a>
+</li>
+ </ul>
+</div>
+ </div>
+<div id="foot">
+<div> <a href="https://www.microsoft.com/fr-fr/">&#169; 2021 Microsoft</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=521839">Confidentialit&#233; et cookies</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=246338">Conditions d&#39;utilisation</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=286759">&#192; propos de nos annonces</a>
+ <a href="https://jfe.qualtrics.com/form/SV_d4ir2X6Zkgjw0rb">Commentaires</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=512703">Aide</a>
+ <a href="/fr-fr/msn-worldwide">MSN Monde</a>
+ <a href="https://go.microsoft.com/fwlink/?linkid=2121428">Accessibilit&#233;</a>
+ <a href="https://go.microsoft.com/fwlink/?linkid=875132">Annonceurs</a>
+</div>
+</div>
+  <div>
+ <img src="https://web.vortex.data.msn.com/collect/v1/t.gif?name=%27Ms.Webi.PageView%27&amp;ver=%272.1%27&amp;appId=%27JS%3AMSN%27&amp;ext-app-env=%27prod%27&amp;ext-javascript-libver=%274.0.0-beta-10%27&amp;ext-user-localId=%27t%3A1B74A39E4A1060481777AC4A4BA46132%27&amp;*baseType=%27Ms.Content.PageView%27&amp;*isJs=False&amp;*title=%27%27&amp;*isLoggedIn=False&amp;*isManual=True&amp;*serverImpressionGuid=%272058cf59-2068-4e20-a05d-371fd3d25539%27&amp;-ver=%271.0%27&amp;-impressionGuid=%272058cf59-2068-4e20-a05d-371fd3d25539%27&amp;-pageName=%27startpage%27&amp;-uri=%27http%253A%252F%252Fwww.msn.com%252Ffr-fr%252F%253Fredirfallthru%253Dhttp%25253a%25252f%25252fwww.fr.msn.be%25252fimg%25252ffr%25252ffr-be%25252fservices%25252fmsnbutton%25252fVideo_60x60.gif%25253f%27&amp;-referrerUri=%27http%3A%2F%2Fwww.msn.com%2F%3Fredirfallthru%3Dhttp%253a%252f%252fwww.fr.msn.be%252fimg%252ffr%252ffr-be%252fservices%252fmsnbutton%252fVideo_60x60.gif%253f%27&amp;-pageTags=%27{&quot;pg.t&quot;%3A&quot;hp&quot;%2C&quot;pg.p&quot;%3A&quot;prime&quot;%2C&quot;pg.c&quot;%3A&quot;&quot;%2C&quot;ex&quot;%3A&quot;&quot;%2C&quot;rid&quot;%3A&quot;2058cf5920684e20a05d371fd3d25539&quot;%2C&quot;clid&quot;%3A&quot;1B74A39E4A1060481777AC4A4BA46132&quot;%2C&quot;clidType&quot;%3A&quot;muid&quot;%2C&quot;di&quot;%3A&quot;81&quot;%2C&quot;partner&quot;%3A&quot;&quot;%2C&quot;publcat&quot;%3A&quot;&quot;%2C&quot;cvs&quot;%3A&quot;Browser&quot;%2C&quot;subcvs&quot;%3A&quot;homepage&quot;%2C&quot;entityId&quot;%3A&quot;&quot;%2C&quot;entitySrc&quot;%3A&quot;&quot;%2C&quot;provid&quot;%3A&quot;&quot;%2C&quot;dpt&quot;%3A&quot;&quot;%2C&quot;sdpt&quot;%3A&quot;&quot;%2C&quot;ar&quot;%3A&quot;0&quot;%2C&quot;dgk&quot;%3A&quot;downlevel.pc&quot;%2C&quot;imd&quot;%3A&quot;0&quot;%2C&quot;parentId&quot;%3A&quot;&quot;%2C&quot;pgIdx&quot;%3A&quot;&quot;%2C&quot;pgTot&quot;%3A&quot;&quot;%2C&quot;anoncknm&quot;%3A&quot;&quot;%2C&quot;afd&quot;%3A&quot;&quot;%2C&quot;issso&quot;%3A&quot;0&quot;%2C&quot;aadState&quot;%3A&quot;0&quot;}%27&amp;-behavior=0&amp;-market=%27fr-fr%27" alt="image beacon" width="1" height="1" />
+</div>
+
+ 
+ 
+ 
+</body>
+ <!--MSNAvailToken--></html>

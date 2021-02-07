@@ -1,0 +1,18 @@
+---
+title: "Qui coiffe le coiffeur ?"
+date: "2016-10-01"
+categories: 
+  - "ma-vie-la-vraie"
+---
+
+J'ai un coiffeur un peu particulier. Je me suis rendu compte qu'il aimait particulièrement se frotter contre moi quand il me coiffe. Quand je parle de frotter, c'est pas comme lustrer une voiture,  on est plus proche du pervers pépère du métro bondé. Ca , c'est pour poser le fond de l'histoire. Je l'aime bien quand même, il me coiffe plutôt bien, il est sur le chemin de mon travail, c'est pas cher et le frotte-frotta ne me gène pas trop. Je dirais pas que c'est bon enfant mais je suis célibataire et ultra beau gosse donc je comprends que ce soit difficile de résister pour le commun des mortels.
+
+Un mardi, j'ai plutôt mal dormi et j'étais réveillé extrêmement tôt genre vers 7h45 du matin. Et puis même pas j'arrivais à me rendormir jusqu'à 8h donc je me suis levé, y'a des moments comme ça dans la vie où il faut savoir faire des vrais choix. Je me lève donc, je me bouscule, je bois mon petit-déjeuner de champion (cacao et tartines) - l'exhaustivité c'est important. Puis je pars tranquille vers le bureau. Il n'y a rien de plus simple, je sors de chez moi, je marche tout droit puis treize minutes plus tard, j'arrive au travail. C'est clair, net et précis.
+
+Je marche donc seul, dans les rues qui se donnent à une heure indécente genre 8h40. A 37 ans, plus rien ne me fait peur, même pas les nazes  de la manif' pour tous. Je passe devant l'échoppe de mon coiffeur et je constate qu'il est déjà ouvert alors que ses horaires sont de 9h30 jusqu'à tard. Soit, me dis-je. Il a du lui aussi passer une nuit pas super chouette. Je continue mon chemin et tout à coup, apparait sur mon côté ledit coiffeur. Un peu comme la belle-mère de Jean-Pierre dans Ma Sorcière Bien Aimée. Il me dit bonjour, je lui réponds parce que je suis un mec poli avec les commerçants de mon quartier et je continue à marcher. Sauf que là, je commence à me dire qu'il y a un truc qui cloche parce qu'il continue de taper la causette: et sinon tu pars en vacances ? tu travailles où? et la question du traquenard: tu veux pas une petite coupe ? Celle à laquelle je vais répondre oui, cruche que je suis.
+
+Nous rebroussons chemin jusqu'à son salon et je me rends compte qu'il avait pris le temps de bien fermer sa boutique et qu'en fait, on allait être que tous les deux parce que son collègue était même pas là. Je m'assois tranquillement, il commence ma coupe et évidemment, commence à se frotter. Je ne peux pas trop rechigner, il est gentil, il m'a suivi pour me proposer une coupe, c'est vraiment altruiste, il est vraiment proche du client. Il se frotte quand même vachement plus que d'habitude et là, je réalise seulement qu'en fait, sa proposition, c'était juste une proposition de coucherie! Et ben, maintenant je peux dire que j'ai un peu couché cette année parce qu'une fois la coupe finie (il a une conscience pro quand même) ben je suis passé à la gamelle. Et même pas je suis arrivé en retard au bureau, vraiment pro ce coiffeur.
+
+Depuis, je l'ai recroisé une fois (les autres fois, j'ai fait un détour parce que j'avais pas la foi, une relation sexuelle par an, c'est déjà beaucoup trop pour moi) et, parce qu'il est extrêmement dévoué à sa clientèle, il m'a proposé de rafraîchir ma coupe. Malheureusement, nous avons été interrompu par un client qui est rentré dans son salon, donc l'expérience étrange fut avortée parce que la séquence touche touche avait commencé bien plus tôt puisqu'il n'y avait même pas de coupe à faire...
+
+En attendant, je me pose une question: peut-on faire la bise aux gens après avoir sucé quelqu'un ? Je n'ai pas réussi à trouver un consensus au sein de mon cercle d'amis...

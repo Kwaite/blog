@@ -1,0 +1,16 @@
+---
+title: "L'homme de Kwaite"
+date: "2007-07-31"
+categories: 
+  - "ma-vie-la-vraie"
+---
+
+Y'a des gens qui arrivent sur mon blog en tapant comme mots clés 'l'homme de Kwaite'...
+
+D'une part, je me dis: quel est cet individu aux pensées incongrues? Si j'avais un homme, ça ferait longtemps que j'aurais étalé mon bonheur en place publique...
+
+D'autre part, je me dis aussi: mais quel est cet individu merveilleux? Parce que c'est beau qu'il y ait encore des gens qui pensent que je puisse trouver tong à  mes orteils...
+
+En l'espèce, non, y'a pas d'homme dans ma vie en ce moment... même si des fois, j'aimerais bien... et qu'il ne faut pas trop que je le clame sur tous les toits (bien joué de l'écrire ici) parce que j'ai quand même un standing à  tenir...
+
+Par conséquent, voici la fin de ce billet d'humeur maussade...
