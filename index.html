@@ -3,10 +3,21 @@ layout: default
 ---
 
 <div class="posts">
-  {% if post.content contains site.excerpt_separator %}
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+          {% if post.content contains site.excerpt_separator %}
     <a href="{{ post.url | prepend: site.baseurl }}">Read more</a>
   {% endif %}
 {% else %}
   {{ post.content }}
 {%- endif -%}
+      </div>
+    </article>
+  {% endfor %}
+
+ 
 </div>
