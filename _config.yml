@@ -1,6 +1,6 @@
 name: Mon blog ... // ... Ma vie de tapette
-description: Web Developer from Somewhere
-theme: jekyll-theme-hacker
+# description: Web Developer from Somewhere
+# theme: jekyll-theme-hacker
 
 # Includes an icon in the footer for each username you enter
 footer-links:
