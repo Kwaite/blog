@@ -1,7 +1,7 @@
 name: Mon blog ... // ... Ma vie de tapette
 # description: Web Developer from Somewhere
 # theme: jekyll-theme-hacker
-
+paginate: 10
 # Includes an icon in the footer for each username you enter
 footer-links:
   email:
